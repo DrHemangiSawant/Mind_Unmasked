@@ -2,6 +2,7 @@
 Mind Unmasked is an extensive data analysis and visualization project focused on understanding depression and other psychological disorders on a global scale. Utilizing Power BI, this project transforms raw, large-scale mental health data from data.world into actionable insights through interactive dashboards and comprehensive visualizations.
 
 Project Overview -
+
 Depression and other psychological disorders are pressing global health concerns. This project aims to shed light on the prevalence and trends of these disorders across different countries, genders, and regions. By leveraging big data analytics, Mind Unmasked provides a clear and insightful view of the mental health landscape, supporting informed decision-making and targeted interventions.
 
 Key Features -
