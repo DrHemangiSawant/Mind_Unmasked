@@ -5,11 +5,11 @@ Project Overview
 Depression and other psychological disorders are pressing global health concerns. This project aims to shed light on the prevalence and trends of these disorders across different countries, genders, and regions. By leveraging big data analytics, Mind Unmasked provides a clear and insightful view of the mental health landscape, supporting informed decision-making and targeted interventions.
 
 Key Features
-* Comprehensive Data Cleaning & Preparation:
+| Comprehensive Data Cleaning & Preparation:
 - Big Data Handling: Processed a vast dataset encompassing various aspects of mental health, ensuring data integrity and consistency.
 - Data Cleaning: Addressed missing values, outliers, and standardized data formats to prepare the dataset for accurate analysis.
 
-* In-Depth Data Analysis:
+| In-Depth Data Analysis:
 - Country-wise Analysis: Examined depression prevalence across different countries to identify regional patterns and disparities.
 - Gender-wise Prevalence: Analyzed how depression rates vary between genders, highlighting significant trends and differences.
 - Suicide Prevalence: Integrated data on suicide rates to understand the correlation between depression and suicide.
