@@ -28,8 +28,11 @@ Key Features
 Key Challenges & Solutions
 - Handling Big Data: Managing and processing large datasets required efficient data cleaning techniques and robust data management practices to ensure the accuracy and reliability of the analysis.
 - Framing Appropriate Questions: Developing relevant and insightful questions was crucial. Focus areas included:
+  
   : How does depression prevalence vary by country and gender?
+  
   : What is the relationship between depression and suicide rates?
+  
   : What are the global trends in various psychological disorders over the past decade?
 - Deriving Actionable Insights: Translating raw data into meaningful insights involved sophisticated data analysis methods and the creation of intuitive visualizations that highlight critical patterns and trends.
 
