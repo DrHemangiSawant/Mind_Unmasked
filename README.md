@@ -40,8 +40,11 @@ Tools & Technologies
 - Power BI: Utilized for data analysis, visualization, and building interactive dashboards, enabling the transformation of complex data into understandable insights.
 - Data Source: Mental Health Depression Disorder Dataset from data.world, providing a rich and comprehensive foundation for analysis.
 
-Why This Project Matters
-Understanding the prevalence and trends of depression and other psychological disorders is essential for developing effective mental health strategies and interventions. Mind Unmasked aims to:
+Why This Project Matters?
+
+Understanding the prevalence and trends of depression and other psychological disorders is essential for developing effective mental health strategies and interventions. 
+
+Mind Unmasked aims to:
 - Provide a clear visualization of mental health data to support healthcare professionals and policymakers.
 - Highlight regional and demographic disparities in mental health, enabling targeted support and resources.
 - Facilitate data-driven decision-making to improve mental health outcomes globally.
