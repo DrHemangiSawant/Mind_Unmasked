@@ -1,10 +1,10 @@
 # Mind Unmasked 
 Mind Unmasked is an extensive data analysis and visualization project focused on understanding depression and other psychological disorders on a global scale. Utilizing Power BI, this project transforms raw, large-scale mental health data from data.world into actionable insights through interactive dashboards and comprehensive visualizations.
 
-Project Overview
+Project Overview -
 Depression and other psychological disorders are pressing global health concerns. This project aims to shed light on the prevalence and trends of these disorders across different countries, genders, and regions. By leveraging big data analytics, Mind Unmasked provides a clear and insightful view of the mental health landscape, supporting informed decision-making and targeted interventions.
 
-Key Features
+Key Features -
 
 | Comprehensive Data Cleaning & Preparation:
 - Big Data Handling: Processed a vast dataset encompassing various aspects of mental health, ensuring data integrity and consistency.
@@ -25,7 +25,7 @@ Key Features
 - Correlation Insights: Derived relationships between different variables, such as the impact of socio-economic factors on depression rates.
 - Regional Comparisons: Facilitated comparisons between regions to pinpoint areas with higher or lower prevalence rates.
 
-Key Challenges & Solutions
+Key Challenges & Solutions -
 - Handling Big Data: Managing and processing large datasets required efficient data cleaning techniques and robust data management practices to ensure the accuracy and reliability of the analysis.
 - Framing Appropriate Questions: Developing relevant and insightful questions was crucial. Focus areas included:
   
@@ -36,7 +36,7 @@ Key Challenges & Solutions
   : What are the global trends in various psychological disorders over the past decade?
 - Deriving Actionable Insights: Translating raw data into meaningful insights involved sophisticated data analysis methods and the creation of intuitive visualizations that highlight critical patterns and trends.
 
-Tools & Technologies
+Tools & Technologies -
 - Power BI: Utilized for data analysis, visualization, and building interactive dashboards, enabling the transformation of complex data into understandable insights.
 - Data Source: Mental Health Depression Disorder Dataset from data.world, providing a rich and comprehensive foundation for analysis.
 
